@@ -1,15 +1,5 @@
 # DZ1
 
-![159846818-12672e80-938b-11e9-8184-5f7bfe66f1a2](https://user-images.githubusercontent.com/74638945/100274274-b695d180-2f90-11eb-9777-5e42bdf12c69.png)
-
-![259846818-12672e80-938b-11e9-8184-5f7bfe66f1a2](https://user-images.githubusercontent.com/74638945/100274602-4d628e00-2f91-11eb-950e-b9aff14044b3.png)
-
-![359846818-12672e80-938b-11e9-8184-5f7bfe66f1a2](https://user-images.githubusercontent.com/74638945/100274617-56ebf600-2f91-11eb-8293-943bb82694af.png)
-
-![59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd](https://user-images.githubusercontent.com/74638945/100278461-79810d80-2f97-11eb-8e13-3b9de4380d25.png)
-
-![59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658](https://user-images.githubusercontent.com/74638945/100278505-8c93dd80-2f97-11eb-99f4-da6d44b41a35.png)
-
 ![bannertest](https://user-images.githubusercontent.com/74638945/102302124-eaaa5400-3f8a-11eb-9c87-4fadf6acc8f1.png)
 
 ![bannertest1](https://user-images.githubusercontent.com/74638945/102296867-d5302c80-3f80-11eb-8152-d1948f35b636.png)
@@ -23,3 +13,19 @@
 ![bannertestsmall](https://user-images.githubusercontent.com/74638945/102307930-197af700-3f98-11eb-8092-7c7e3c23956f.png)
 
 ![bannertestsmall1](https://user-images.githubusercontent.com/74638945/102307951-24358c00-3f98-11eb-9f39-0f8498759d84.png)
+
+![appbanner1](https://user-images.githubusercontent.com/74638945/115830622-c24fcc00-a43a-11eb-843a-c4798ebf0e4c.png)
+
+![appbanner2](https://user-images.githubusercontent.com/74638945/115830681-d85d8c80-a43a-11eb-9356-54555d041402.png)
+
+![appbanner3](https://user-images.githubusercontent.com/74638945/115830730-e90e0280-a43a-11eb-8697-36542e55df41.png)
+
+![appbanner4](https://user-images.githubusercontent.com/74638945/115830778-f925e200-a43a-11eb-86ec-4cc296b755f0.png)
+
+![appbanner5](https://user-images.githubusercontent.com/74638945/115830836-06db6780-a43b-11eb-9689-922123641945.png)
+
+![appbanner6](https://user-images.githubusercontent.com/74638945/115830975-30948e80-a43b-11eb-8649-dae16a5f28ec.png)
+
+![appbannernho1](https://user-images.githubusercontent.com/74638945/115831043-45712200-a43b-11eb-876d-ee465201587d.png)
+
+![appbannernho2](https://user-images.githubusercontent.com/74638945/115831049-486c1280-a43b-11eb-9ef3-b0dfa188bed7.png)
