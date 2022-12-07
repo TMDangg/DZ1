@@ -1,17 +1,6 @@
 # DZ1
 
 
-![appbanner3](https://user-images.githubusercontent.com/74638945/115830730-e90e0280-a43a-11eb-8697-36542e55df41.png)
-
-![appbanner4](https://user-images.githubusercontent.com/74638945/115830778-f925e200-a43a-11eb-86ec-4cc296b755f0.png)
-
-![appbanner5](https://user-images.githubusercontent.com/74638945/115830836-06db6780-a43b-11eb-9689-922123641945.png)
-
-![appbanner6](https://user-images.githubusercontent.com/74638945/115830975-30948e80-a43b-11eb-8649-dae16a5f28ec.png)
-
-![appbannernho1](https://user-images.githubusercontent.com/74638945/115831043-45712200-a43b-11eb-876d-ee465201587d.png)
-
-![appbannernho2](https://user-images.githubusercontent.com/74638945/115831049-486c1280-a43b-11eb-9ef3-b0dfa188bed7.png)
 
 ![photo-1494253109108-2e30c049369b](https://user-images.githubusercontent.com/74638945/145665834-6658ceb0-fe4c-4574-b7ad-b3a4e0422c48.png)
 
@@ -31,3 +20,10 @@
 
 ![salebanner](https://user-images.githubusercontent.com/74638945/205864409-78f044d0-7cd6-4a28-aec7-8fbd83fc62e4.png)
 
+![bannersale](https://user-images.githubusercontent.com/74638945/206148086-154f95a5-bd3d-4c6f-a982-6c52367afe6d.png)
+
+![bannernu22](https://user-images.githubusercontent.com/74638945/206148132-690d2018-ffde-4512-a664-45fa5d234ca7.png)
+
+![bannerunisex22](https://user-images.githubusercontent.com/74638945/206148183-3d9295a9-6a84-4d61-b385-e534492c6b8a.png)
+
+![bannerkstore22](https://user-images.githubusercontent.com/74638945/206148226-2652a938-e1cb-4421-841b-adf3fa1fa119.png)
