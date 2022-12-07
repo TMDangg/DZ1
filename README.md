@@ -27,3 +27,5 @@
 ![bannerunisex22](https://user-images.githubusercontent.com/74638945/206148183-3d9295a9-6a84-4d61-b385-e534492c6b8a.png)
 
 ![bannerkstore22](https://user-images.githubusercontent.com/74638945/206148226-2652a938-e1cb-4421-841b-adf3fa1fa119.png)
+
+![salebanner2](https://user-images.githubusercontent.com/74638945/206154235-76544754-1416-4f31-9956-06f24bf25f95.png)
